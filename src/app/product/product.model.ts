@@ -1,0 +1,1 @@
+// Provides a 'Product' object
